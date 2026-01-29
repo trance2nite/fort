@@ -52,12 +52,12 @@ FORT_API BOOL fort_devconf_rules_conn_filtered(
 {
     BOOL res = FALSE;
 
-    KIRQL oldIrql = ExAcquireSpinLockExclusive(&device_conf->lock);
+    KIRQL oldIrql = ExAcquireSpinLockShared(&device_conf->lock);
     PFORT_CONF_RULES rules = device_conf->rules;
     if (rules != NULL) {
         res = fort_conf_rules_conn_filtered(rules, device_conf->zones, conn, rule_id);
     }
-    ExReleaseSpinLockExclusive(&device_conf->lock, oldIrql);
+    ExReleaseSpinLockShared(&device_conf->lock, oldIrql);
 
     return res;
 }
