@@ -80,3 +80,6 @@ AlignConsecutiveMacros: true
 
 # Space is inserted after C style casts.
 SpaceAfterCStyleCast: true
+
+# Don't insert a space in empty braces.
+SpaceInEmptyBraces: Block
