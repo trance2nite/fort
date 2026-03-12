@@ -330,7 +330,7 @@
     </message>
     <message>
         <source>Cannot load Settings</source>
-        <translation>Невозможно загрузить Найстройки</translation>
+        <translation>Невозможно загрузить Настройки</translation>
     </message>
 </context>
 <context>

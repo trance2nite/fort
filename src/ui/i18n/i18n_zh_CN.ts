@@ -2370,7 +2370,7 @@ Please check other program with the same path.</source>
     </message>
     <message>
         <source>Connections</source>
-        <translation>连接数</translation>
+        <translation>连接</translation>
     </message>
 </context>
 <context>

@@ -44,7 +44,7 @@
     </message>
     <message>
         <source>Internet</source>
-        <translation type="unfinished"></translation>
+        <translation>Internet</translation>
     </message>
     <message>
         <source>Filter Local Addresses</source>
@@ -60,11 +60,11 @@
     </message>
     <message>
         <source>Local Network Addresses:</source>
-        <translation></translation>
+        <translation>Lokalne adresy sieciowe:</translation>
     </message>
     <message>
         <source>Block Addresses:</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokuj adresy:</translation>
     </message>
 </context>
 <context>
@@ -134,15 +134,15 @@
     </message>
     <message>
         <source>Allowed Zones:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozwolone strefy:</translation>
     </message>
     <message>
         <source>Blocked Zones:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zablokowane strefy:</translation>
     </message>
     <message>
         <source>Time left: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozostały czas: %1</translation>
     </message>
 </context>
 <context>
@@ -157,7 +157,7 @@
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobierz</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -315,7 +315,7 @@
     </message>
     <message>
         <source>Too many values</source>
-        <translation type="unfinished"></translation>
+        <translation>Zbyt wiele wartości</translation>
     </message>
 </context>
 <context>
@@ -352,11 +352,11 @@
     </message>
     <message>
         <source>Blocked</source>
-        <translation type="unfinished"></translation>
+        <translation>Zablokowany</translation>
     </message>
     <message>
         <source>Allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>Dozwolony</translation>
     </message>
     <message>
         <source>Inherited</source>
@@ -392,19 +392,19 @@
     </message>
     <message>
         <source>Internet address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres Internetowy</translation>
     </message>
     <message>
         <source>Old connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Stare połączenie</translation>
     </message>
     <message>
         <source>Program&apos;s action</source>
-        <translation type="unfinished"></translation>
+        <translation>Działanie programu</translation>
     </message>
     <message>
         <source>App. Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupa aplikacji</translation>
     </message>
     <message>
         <source>Filter Mode</source>
@@ -412,7 +412,7 @@
     </message>
     <message>
         <source>LAN only</source>
-        <translation type="unfinished"></translation>
+        <translation>Tylko LAN</translation>
     </message>
     <message>
         <source>Zone</source>
@@ -424,11 +424,11 @@
     </message>
     <message>
         <source>Global Rule before App Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Reguła globalna przed regułami aplikacji</translation>
     </message>
     <message>
         <source>Global Rule after App Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Reguła globalna po regułach aplikacji</translation>
     </message>
     <message>
         <source>Limit of Ask to Connect</source>
@@ -440,35 +440,35 @@
     </message>
     <message>
         <source>Rule: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reguła: %1</translation>
     </message>
     <message>
         <source>Zone: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Strefa: %1</translation>
     </message>
     <message>
         <source>Local Host Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalna nazwa hosta</translation>
     </message>
     <message>
         <source>Local IP</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalny IP</translation>
     </message>
     <message>
         <source>Local Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port lokalny</translation>
     </message>
     <message>
         <source>Remote Host Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa zdalnego hosta</translation>
     </message>
     <message>
         <source>Remote IP</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdalny IP</translation>
     </message>
     <message>
         <source>Remote Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdalny port</translation>
     </message>
 </context>
 <context>
@@ -515,34 +515,34 @@
     </message>
     <message>
         <source>Copy as Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj jako filtr</translation>
     </message>
     <message>
         <source>Stretch last column</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozciągnij ostatnią kolumnę</translation>
     </message>
     <message>
         <source>Lookup IP</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj IP</translation>
     </message>
 </context>
 <context>
     <name>DateUtil</name>
     <message>
         <source>&gt;%1h</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;%1h</translation>
     </message>
     <message>
         <source>%1h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1h</translation>
     </message>
     <message>
         <source>%1m</source>
-        <translation type="unfinished"></translation>
+        <translation>%1m</translation>
     </message>
     <message>
         <source>%1s</source>
-        <translation type="unfinished"></translation>
+        <translation>%1s</translation>
     </message>
 </context>
 <context>
@@ -584,15 +584,15 @@
     </message>
     <message>
         <source>No Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez blokowania</translation>
     </message>
     <message>
         <source>Block Internet and LAN Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokuj ruch internetowy i sieci LAN</translation>
     </message>
     <message>
         <source>Block LAN Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokuj ruch LAN</translation>
     </message>
 </context>
 <context>
@@ -615,7 +615,7 @@
     </message>
     <message>
         <source>Run Fort Firewall as Administrator or install its Windows Service to access the Driver!</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom Fort Firewall jako Administrator lub zainstaluj jego usługę Windows, aby uzyskać dostęp do sterownika!</translation>
     </message>
 </context>
 <context>
@@ -705,11 +705,11 @@
     </message>
     <message>
         <source>Colors (Light | Dark)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolory (Jasny | Ciemny)</translation>
     </message>
     <message>
         <source>Fixed speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stała szybkość:</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -717,15 +717,15 @@
     </message>
     <message>
         <source>Auto-scale</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne skalowanie</translation>
     </message>
     <message>
         <source>Tick label size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar etykiety:</translation>
     </message>
     <message>
         <source>Show speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż szybkość</translation>
     </message>
 </context>
 <context>
@@ -815,7 +815,7 @@
     </message>
     <message>
         <source>Integration</source>
-        <translation type="unfinished"></translation>
+        <translation>Integracja</translation>
     </message>
     <message>
         <source>Windows Explorer integration</source>
@@ -823,7 +823,7 @@
     </message>
     <message>
         <source>Control Panel: Sounds integration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Control Panel: Sounds integration</translation>
     </message>
     <message>
         <source>Auto-run:</source>
@@ -843,7 +843,7 @@
     </message>
     <message>
         <source>Portable Installed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Portable Installed</translation>
     </message>
 </context>
 <context>
@@ -878,7 +878,7 @@
     </message>
     <message>
         <source>Service Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Logi usługi</translation>
     </message>
 </context>
 <context>
@@ -1085,39 +1085,39 @@
     </message>
     <message>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl:</translation>
     </message>
     <message>
         <source>Auto-Clear alerts on window close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auto-Clear alerts on window close</translation>
     </message>
     <message>
         <source>Show window icons as in tray icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż ikony okna jako ikonę w zasobniku</translation>
     </message>
     <message>
         <source>Snooze Alerts</source>
-        <translation type="unfinished"></translation>
+        <translation>Drzemka alertów</translation>
     </message>
     <message>
         <source>Switch Snooze Alerts</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz drzemkę alertów</translation>
     </message>
     <message>
         <source>Auto-Show Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatycznie pokazuj okno</translation>
     </message>
     <message>
         <source>Auto-Show Window, when Tray Icon is hidden</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auto-Show Window, when Tray Icon is hidden</translation>
     </message>
     <message>
         <source>Auto-focus the alert window, when it&apos;s shown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auto-focus the alert window, when it&apos;s shown</translation>
     </message>
     <message>
         <source>Switch Window visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz widoczność okna</translation>
     </message>
 </context>
 <context>
@@ -1151,7 +1151,7 @@
     </message>
     <message>
         <source>Select dark color for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz ciemny kolor dla %1</translation>
     </message>
 </context>
 <context>
@@ -1222,7 +1222,7 @@
     </message>
     <message>
         <source>Import new programs</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuj nowe programy</translation>
     </message>
 </context>
 <context>
@@ -1265,7 +1265,7 @@ Upewnij się, że masz świeżą kopię zapasową.</translation>
     </message>
     <message>
         <source>Only new Programs will be added after successful import. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tylko nowe programy zostaną dodane po udanym importowaniu. Kontynuować?</translation>
     </message>
 </context>
 <context>
@@ -1360,19 +1360,19 @@ Upewnij się, że masz świeżą kopię zapasową.</translation>
     </message>
     <message>
         <source>Auto-install after download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auto-install after download</translation>
     </message>
     <message>
         <source>Stealth mode (Prevent port scanning)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stealth mode (Prevent port scanning)</translation>
     </message>
     <message>
         <source>Auto-learn seconds:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auto-learn seconds:</translation>
     </message>
     <message>
         <source>Disable command line management</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Disable command line management</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -1408,19 +1408,19 @@ Upewnij się, że masz świeżą kopię zapasową.</translation>
     </message>
     <message>
         <source>Filter Off seconds:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filter Off seconds:</translation>
     </message>
     <message>
         <source>Remove alerted programs on Auto-Learn Off</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Remove alerted programs on Auto-Learn Off</translation>
     </message>
     <message>
         <source>Trace Driver Events</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trace Driver Events</translation>
     </message>
     <message>
         <source>Don&apos;t delete the last downloaded installer after installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie usuwaj ostatnio pobranego instalatora po instalacji</translation>
     </message>
     <message>
         <source>1 hour</source>
@@ -1428,7 +1428,7 @@ Upewnij się, że masz świeżą kopię zapasową.</translation>
     </message>
     <message>
         <source>1 day</source>
-        <translation type="unfinished"></translation>
+        <translation>1 dzień</translation>
     </message>
 </context>
 <context>
@@ -1492,7 +1492,7 @@ Czy chcesz otworzyć wątek dyskusji w preglądarce?</translation>
     <name>ProgConnListPage</name>
     <message>
         <source>Copy as Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj jako filtr</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1500,7 +1500,7 @@ Czy chcesz otworzyć wątek dyskusji w preglądarce?</translation>
     </message>
     <message>
         <source>Lookup IP</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukaj IP</translation>
     </message>
 </context>
 <context>
@@ -1531,11 +1531,11 @@ Czy chcesz otworzyć wątek dyskusji w preglądarce?</translation>
     </message>
     <message>
         <source>Set Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw ikonę</translation>
     </message>
     <message>
         <source>Delete Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń ikonę</translation>
     </message>
     <message>
         <source>Rules inheritance:</source>
@@ -1631,7 +1631,7 @@ Czy chcesz otworzyć wątek dyskusji w preglądarce?</translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>3 godziny</translation>
     </message>
     <message>
         <source>6 hours</source>
@@ -1659,7 +1659,7 @@ Czy chcesz otworzyć wątek dyskusji w preglądarce?</translation>
     </message>
     <message>
         <source>%1 minute(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 minut(y)</translation>
     </message>
     <message>
         <source>Programs (*.exe);;All files (*.*)</source>
@@ -1667,34 +1667,34 @@ Czy chcesz otworzyć wątek dyskusji w preglądarce?</translation>
     </message>
     <message>
         <source>Icon for program</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikona programu</translation>
     </message>
     <message>
         <source>Icons (*.ico; *.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>Icony (*.ico; *.png)</translation>
     </message>
 </context>
 <context>
     <name>ProgMainPage</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogólne</translation>
     </message>
     <message>
         <source>Network Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtry sieciowe</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej</translation>
     </message>
     <message>
         <source>Switch Wildcard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Switch Wildcard</translation>
     </message>
     <message>
         <source>Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Połączenia</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1777,7 +1777,8 @@ Uruchom ponownie uruchomiony program, aby wprowadzić tę opcję.</translation>
     <message>
         <source>Failed to save the program!
 Please check other program with the same path.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Failed to save the program!
+Please check other program with the same path.</translation>
     </message>
 </context>
 <context>
@@ -1894,15 +1895,15 @@ Please check other program with the same path.</source>
     </message>
     <message>
         <source>Stretch last column</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozciągnij ostatnią kolumnę</translation>
     </message>
     <message>
         <source>Remove Alerted Programs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Remove Alerted Programs</translation>
     </message>
     <message>
         <source>Are you sure to remove alerted programs?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Are you sure to remove alerted programs?</translation>
     </message>
     <message>
         <source>Copy Path</source>
@@ -1914,11 +1915,11 @@ Please check other program with the same path.</source>
     </message>
     <message>
         <source>Timer</source>
-        <translation type="unfinished"></translation>
+        <translation>Timer</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz</translation>
     </message>
     <message>
         <source>1 minute</source>
@@ -1942,7 +1943,7 @@ Please check other program with the same path.</source>
     </message>
     <message>
         <source>3 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>3 godziny</translation>
     </message>
     <message>
         <source>6 hours</source>
@@ -1961,7 +1962,7 @@ Please check other program with the same path.</source>
     </message>
     <message>
         <source>Bad Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Zły protokół</translation>
     </message>
 </context>
 <context>
@@ -2066,19 +2067,19 @@ Please check other program with the same path.</source>
     </message>
     <message>
         <source>Terminating Rule:</source>
-        <translation type="unfinished"></translation>
+        <translation>Reguła zakończenia:</translation>
     </message>
     <message>
         <source>Tray Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu zasobnika</translation>
     </message>
     <message>
         <source>Inline Zones</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inline Zones</translation>
     </message>
     <message>
         <source>Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Alarm</translation>
     </message>
     <message>
         <source>Collect allowed connections</source>
@@ -2124,39 +2125,39 @@ Please check other program with the same path.</source>
     </message>
     <message>
         <source>Unexpected start of line</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieoczekiwany początek linii</translation>
     </message>
     <message>
         <source>Unexpected end of list</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieoczekiwany koniec listy</translation>
     </message>
     <message>
         <source>Max list depth exceeded: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Przekroczono maksymalną głębokość listy: %1</translation>
     </message>
     <message>
         <source>Unexpected symbol of list end</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieoczekiwany symbol końca listy</translation>
     </message>
     <message>
         <source>Extra filter name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodatkowa nazwa filtru: %1</translation>
     </message>
     <message>
         <source>Bad filter name: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Błędna nazwa filtru: %1</translation>
     </message>
     <message>
         <source>Unexpected end of values list</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieoczekiwany koniec listy wartości</translation>
     </message>
     <message>
         <source>Unexpected end of value</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieoczekiwany koniec wartości</translation>
     </message>
     <message>
         <source>No filter name</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak nazwy filtra</translation>
     </message>
 </context>
 <context>
@@ -2358,7 +2359,7 @@ Please check other program with the same path.</source>
     <name>StatBasePage</name>
     <message>
         <source>Make this tab active when window opens?</source>
-        <translation type="unfinished"></translation>
+        <translation>Uczynić tę kartę aktywną, gdy otwiera się okno?</translation>
     </message>
 </context>
 <context>
@@ -2369,7 +2370,7 @@ Please check other program with the same path.</source>
     </message>
     <message>
         <source>Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Połączenia</translation>
     </message>
 </context>
 <context>
@@ -2476,15 +2477,15 @@ Please check other program with the same path.</source>
     </message>
     <message>
         <source>Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Połączenia</translation>
     </message>
     <message>
         <source>Keep count for connections:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zachowaj liczbę połączeń:</translation>
     </message>
     <message>
         <source>Clear connections on exit (reduce disk writes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść połączenia przy wyjściu (mniej zapisywania na dysku)</translation>
     </message>
 </context>
 <context>
@@ -2615,7 +2616,7 @@ Please check other program with the same path.</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj</translation>
     </message>
     <message>
         <source>Add Program</source>
@@ -2713,11 +2714,11 @@ Please check other program with the same path.</source>
     </message>
     <message>
         <source>Snooze Alerts</source>
-        <translation type="unfinished"></translation>
+        <translation>Drzemka alertów</translation>
     </message>
     <message>
         <source>Rule Modifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Modyfikator reguł</translation>
     </message>
 </context>
 <context>
