@@ -58,6 +58,7 @@ Name: "pt"; MessagesFile: "compiler:Languages\Portuguese.isl,{#LANG_CUSTOM}\Port
 Name: "pt_BR"; MessagesFile: "compiler:Languages\BrazilianPortuguese.isl,{#LANG_CUSTOM}\BrazilianPortuguese.isl"
 Name: "ru"; MessagesFile: "compiler:Languages\Russian.isl,{#LANG_CUSTOM}\Russian.isl"
 Name: "sl"; MessagesFile: "compiler:Languages\Slovenian.isl,{#LANG_CUSTOM}\Slovenian.isl"
+Name: "vi"; MessagesFile: "{#LANG_PATH}\Vietnamese.isl,{#LANG_CUSTOM}\Vietnamese.isl"
 Name: "zh_CN"; MessagesFile: "{#LANG_PATH}\ChineseSimplified.isl,{#LANG_CUSTOM}\ChineseSimplified.isl"
 
 [Tasks]
