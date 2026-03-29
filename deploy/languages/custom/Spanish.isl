@@ -18,4 +18,3 @@ NotCompatibleWithWindows7=Este programa no es compatible con la versión de Windo
 NotCompatibleWithHVCI=Este programa no es compatible con HVCI (Aislamiento de Núcleo).
 InstallVCRedist=Instala la última versión de Visual C++ redistribuible.
 IsDeleteData=¿Eliminar archivos de configuración y datos?
-
